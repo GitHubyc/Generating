@@ -1,0 +1,5 @@
+
+com.xiaofangyun.util.Constant.java文件主要负责1、配置数据源2、项目包文件路径3、磁盘文件根路径
+
+
+Application为代码生成示例
